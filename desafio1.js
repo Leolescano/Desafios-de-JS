@@ -6,4 +6,4 @@ function promedio(...notas){
     media=somaDeNotas/notas.length
     return media
 }
-console.log(promedio(10,9,6,8,9,1,5,7))
+console.log(promedio(20,9,6,8,9,1,5,7))
